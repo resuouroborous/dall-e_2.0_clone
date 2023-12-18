@@ -47,4 +47,4 @@ Start the project
 
   ## Warning
 
-  MongoDB Atlas is no longer free, The free tier is only available for 15days. As this is a Mern Stack project and I have been using the free tier. The API key won't work.
+  MongoDB Atlas is no longer free, The free tier is only available for 15days. As this is a Mern Stack project and I have been using the free tier. The API key won't work after 15days ( TRY with Firebase rather than MongoDB).
